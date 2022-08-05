@@ -1,12 +1,12 @@
 #### TESTS FOR NENTRY FUNCTION 
 
-n = nentry() 
-How much data do you want to enter?:  -5 
-Please enter a natural number. 
+n = nentry()  
+How much data do you want to enter?:  -5  
+Please enter a natural number.  
 
-n = nentry() 
-How much data do you want to enter?:  a 
-Please enter a natural number. 
+n = nentry()  
+How much data do you want to enter?:  a  
+Please enter a natural number.  
 
 n = nentry() 
 How much data do you want to enter?:  6 
