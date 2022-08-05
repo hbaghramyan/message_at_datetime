@@ -74,20 +74,38 @@ The datetime  15:31:48 05.08.2022 has been reached.
 The datetime  15:32:00 05.08.2022 has been reached. 
 
 How much data do you want to enter?: 4 
+
 Please enter a date in DD.MM.YYYY format:05.08.2022 
+
 Please enter a time in HH:MM:SS format:3:36;15 
+
 Please enter a time in the correct format. 
+
 Please enter a date in DD.MM.YYYY format:05.08.2022 
+
 Please enter a time in HH:MM:SS format:15:36:15 
+
 Please enter a date in DD.MM.YYYY format:05.08.2022 
+
 Please enter a time in HH:MM:SS format:15:35:45 
+
 Please enter a date in DD.MM.YYYY format:05.08.2022 
+
 Please enter a time in HH:MM:SS format:15:35:20 
+
 Thank you very much. I will notify them! 
+
 You've entered 3 correct datetimes: 
+
 15:36:15 05.08.2022 
+
 15:35:45 05.08.2022 
+
 15:35:20 05.08.2022 
+
 The datetime  15:35:20 05.08.2022 has been reached. 
+
 The datetime  15:35:45 05.08.2022 has been reached. 
+
 The datetime  15:36:15 05.08.2022 has been reached. 
+
