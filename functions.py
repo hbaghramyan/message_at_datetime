@@ -10,7 +10,6 @@ def nentry():
     else:
         return int(n)
     
-# a function to validate date formate
 def validate(dt, dtformat):
     """a function to validate date formate"""
     try:  
@@ -44,7 +43,6 @@ def dtime(n, strd, strt):
         print(f"You've entered {len(dt)} correct datetimes:")
         for i in dt:
             print(i.strftime(strt+" "+strd))
-            # item = datetime.strptime(str(j+" "+i), strt+" "+strd)
             comb_dt.append(i)
     else:
         print(f"You've entered {len(dt)} correct datetimes.")
